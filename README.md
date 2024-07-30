@@ -23,7 +23,7 @@ Adapted from [https://github.com/FelSiq/DBCV](https://github.com/FelSiq/DBCV).
 
 ## Install
 ```bash
-python -m pip install "git+[https://github.com/JotaKas/Mem_DBCV]"
+python -m pip install "git+https://github.com/JotaKas/Mem_DBCV"
 ```
 
 ---
